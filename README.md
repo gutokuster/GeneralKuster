@@ -1,3 +1,3 @@
-# General Küster
+# Soon Site
 
 Arquivos do site 'em construção'.
